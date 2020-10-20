@@ -8,7 +8,7 @@ tech1 = input("I enjoy building and fixing things.")
 
 outdoor1 = input("I'll go crazy if I do not go out of the house for the whole day.")
 
-music1 = input("I can see colours in my mind when i hear music.")
+music1 = input("I can imagine colours in my mind when i hear music.")
 
 tech2 = input("I know how to build apps and websites.")
 
